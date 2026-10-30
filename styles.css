@@ -243,3 +243,9 @@ hr {
     margin-left: auto;
     margin-right: auto;
 }
+
+/* Center music genre headings */
+
+h3 {
+    text-align: center;
+}
