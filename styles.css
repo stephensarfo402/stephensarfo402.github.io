@@ -249,3 +249,23 @@ hr {
 h3 {
     text-align: center;
 }
+
+/* Center Music Section Heading */
+
+.music-title {
+    text-align: center;
+}
+
+/* Center Music Introduction */
+
+.music-intro {
+    text-align: center;
+    max-width: none;
+}
+
+/* Center Music Genre Headings */
+
+h3 {
+    text-align: center;
+}
+
